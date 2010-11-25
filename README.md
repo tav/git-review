@@ -1,4 +1,4 @@
-![Git-review](http://github.com/tav/git-review/raw/master/review-server/static/logo.png)
+![Git-review](https://github.com/tav/git-review/raw/master/review-server/static/logo.png)
 
 Git review is a combined code review, build and testing system built on  
 top of Git and GitHub. It was originally developed to help with the  
