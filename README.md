@@ -26,14 +26,14 @@ send a pull request to me <<http://github.com/tav>>. Thanks!
 
 **License**
 
-Everything in this repository, except for the third-party modules in the `lib`
-directory, have been released into the [public domain].
+Everything in this repository, except for the third party modules in the  
+`lib` directory, have been released into the [public domain].
 
 —  
 Enjoy, tav <<tav@espians.com>>
 
 
 [Ampify platform]: http://ampify.it
-[public domain]: http://ampify.it/unlicense.html
+[public domain]: https://github.com/tav/git-review/raw/master/UNLICENSE
 
 [tav]: http://tav.espians.com
