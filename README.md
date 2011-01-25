@@ -26,14 +26,14 @@ send a pull request to me <<http://github.com/tav>>. Thanks!
 
 **License**
 
-Everything in this repository, except for the third-party modules in the  
-`lib` directory, are under the same [Public Domain License] as Ampify.
+Everything in this repository, except for the third-party modules in the `lib`
+directory, have been released into the [public domain].
 
 —  
 Enjoy, tav <<tav@espians.com>>
 
 
 [Ampify platform]: http://ampify.it
-[Public Domain License]: http://ampify.it/license.html
+[public domain]: http://ampify.it/unlicense.html
 
 [tav]: http://tav.espians.com
