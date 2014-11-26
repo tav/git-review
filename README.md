@@ -33,7 +33,7 @@ Everything in this repository, except for the third party modules in the
 Enjoy, tav <<tav@espians.com>>
 
 
-[Ampify platform]: http://ampify.it
+[Ampify platform]: http://ampify.net
 [public domain]: https://github.com/tav/git-review/raw/master/UNLICENSE
 
 [tav]: http://tav.espians.com
